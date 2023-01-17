@@ -1,2 +1,2 @@
 # note-app
-a simple note application written in Python.
+A simple note application written in Python utilizing Tkinter.
